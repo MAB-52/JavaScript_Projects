@@ -9,13 +9,13 @@ body {
 }
 
 .game-container {
-  background: #222;
+  background: #154342;
   color: white;
   padding: 30px;
   border-radius: 15px;
   text-align: center;
   width: 350px;
-  box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+  box-shadow: 0px 4px 15px rgba(214, 21, 21, 0.2);
 }
 
 h1 {
@@ -26,6 +26,7 @@ h1 {
   display: flex;
   justify-content: space-around;
   margin-bottom: 20px;
+  gap: 10px;
 }
 
 button {
